@@ -10,13 +10,13 @@ Udacity ML Capstone Project
 * 混合模型2
 ![image](./mixed2_model.png)
 
-#### 环境要求
+### 环境要求
 
  keras version = 2.1.5   
  numpy version = 1.14.2   
  tensorflow version = 1.7.0   
 
-#### 预估训练时间
+### 预估训练时间
 
 以 AWS P3 实例为参考
 
@@ -26,7 +26,7 @@ Udacity ML Capstone Project
  结构融合 < 30 min   
  图像增强 < 25 min   
 
-#### 最终结果
+### 最终结果
 |  Model  |  LogLoss  |  Rank  |
 |:-------|:------------- | ----------:|
 |  Xception  |    0.08306  |	>250 |
