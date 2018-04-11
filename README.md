@@ -12,19 +12,19 @@ Udacity ML Capstone Project
 
 #### 环境要求
 
-keras version = 2.1.5
-numpy version = 1.14.2
-tensorflow version = 1.6.0
+ keras version = 2.1.5
+ numpy version = 1.14.2
+ tensorflow version = 1.7.0
 
 #### 预估训练时间
 
 以 AWS P3 实例为参考
 
-单模型 < 15 min
-微调 < 10 min
-特征融合 < 20 min
-结构融合 < 30 min
-图像增强 < 25 min
+ 单模型 < 15 min
+ 微调 < 10 min
+ 特征融合 < 20 min
+ 结构融合 < 30 min
+ 图像增强 < 25 min
 
 #### 最终结果
 |  Model  |  LogLoss  |  Rank  |
